@@ -1,0 +1,16 @@
+{
+    "name": "nurymbet/core",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nurymbet\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Admin",
+            "email": "amdr5663@gmail.com"
+        }
+    ],
+    "require": {}
+}
