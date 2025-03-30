@@ -12,5 +12,7 @@
             "email": "amdr5663@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
